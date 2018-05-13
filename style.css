@@ -1,0 +1,14 @@
+/*General app*/
+.app {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  color: white;
+  font-size: 35px;
+  padding-top: 10%;
+  padding-bottom: 20%;
+  background: rgb(0,0,0,0.5);
+}
+
+.app h1 {
+	margin-bottom: 45px;
+}
