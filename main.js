@@ -35,6 +35,8 @@ function randomNumber(n) {
   return "bad request: no > than 1 million or < 0";
   
   // Returns a number between [0, n)
+
+  /*I tried out to improve Monte Carlo or Rejection Algorithms but it was a very short time for me doing in less than 2 days, :)*/
 }
 
 /*TRY OUT IN CONSOLE AND NODEJS*/
